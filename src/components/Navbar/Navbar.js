@@ -38,6 +38,9 @@ function Navbar() {
                                 <NavLink to="/">Home</NavLink>
                             </NavItem>
                             <NavItem>
+                                <NavLink to="/about">About me</NavLink>
+                            </NavItem>
+                            <NavItem>
                                 <NavLink to="/services">Services</NavLink>
                             </NavItem>
                             <NavItem>
