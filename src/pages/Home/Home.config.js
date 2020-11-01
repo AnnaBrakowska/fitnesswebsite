@@ -61,7 +61,7 @@ export const homeObjFour = {
         'Your ultimate online personal trainer that will help you to get in shape everywhere you are.',
     buttonLabel: 'HIRE ME',
     imgStart: '',
-    img: require('../../assets/image2.svg').default,
+    img: require('../../assets/image1.svg').default,
     alt: 'Credit Card',
     start: 'start'
 };
