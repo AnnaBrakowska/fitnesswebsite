@@ -1,14 +1,13 @@
 import React from 'react'
 import { InfoSection } from '../../components'
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Home.config'
+import { homeConfig } from './Home.config'
 
 function Home() {
     return (
         <div>
-            <InfoSection {...homeObjOne} />
-            <InfoSection {...homeObjTwo} />
-            <InfoSection {...homeObjThree} />
-            <InfoSection {...homeObjFour} />
+            <InfoSection {...homeConfig} />
+            {/* <InfoSection {...homeObjThree} />
+            <InfoSection {...homeObjFour} />  */}
         </div>
     )
 }

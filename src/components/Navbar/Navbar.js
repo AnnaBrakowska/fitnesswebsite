@@ -43,16 +43,14 @@ function Navbar() {
                             <NavItem>
                                 <NavLink to="/services">Services</NavLink>
                             </NavItem>
-                            <NavItem>
-                                <NavLink to="/contact">Contact</NavLink>
-                            </NavItem>
+
                             <NavItemBtn>
                                 {button ? (
-                                    <NavBtnLink to="/sign-up">
-                                        <Button>SIGN UP</Button>
+                                    <NavBtnLink to="/contact">
+                                        <Button>HIRE ME</Button>
                                     </NavBtnLink>
                                 ) : (
-                                        <NavBtnLink to="/sign-up">
+                                        <NavBtnLink to="/contact">
                                             <Button onClick={closeMobileMenu} fontBig primary>SIGN UP</Button>
                                         </NavBtnLink>
                                     )

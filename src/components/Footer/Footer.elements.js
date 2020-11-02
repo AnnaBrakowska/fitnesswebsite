@@ -23,12 +23,12 @@ color: #fff;
 export const FooterSubheading = styled.p`
 font-family: 'Treuchet TS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 margin-bottom: 24px;
-font-size: 24px;
+font-size: 16px;
 `
 
 export const FooterSubtext = styled.p`
 margin-bottom: 24px;
-font-size: 20px;
+font-size: 12px;
 `
 
 export const Form = styled.form`
