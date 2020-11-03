@@ -39,9 +39,9 @@ function Footer() {
                 <SocialMediaWrap>
                     <SocialLogo to='/'>
                         <SocialIcon />
-            MilkFit
+            Saiyan Fit
           </SocialLogo>
-                    <WebsiteRights>MilkFit © 2020</WebsiteRights>
+                    <WebsiteRights>Saiyan Fit © 2020</WebsiteRights>
                     <SocialIcons>
                         <SocialIconLink href='https://www.facebook.com/Lucahdsupreme' target='_blank' aria-label='Facebook'>
                             <FaFacebook />

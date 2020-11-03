@@ -29,7 +29,7 @@ function Navbar() {
                 <Nav>
                     <NavbarContainer>
                         <NavLogo to="/">
-                            <NavIcon /> MILKFIT
+                            <NavIcon /> SAIYAN FIT
                 </NavLogo>
                         <MobileIcon onClick={handleClick}>{click ? <FaTimes /> : <FaBars />}
                         </MobileIcon>

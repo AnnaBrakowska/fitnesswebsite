@@ -3,32 +3,32 @@ import { IoIosFitness } from 'react-icons/io'
 import { Link } from 'react-router-dom';
 
 export const FooterContainer = styled.div`
-background-color: #101522;
-padding: 4rem0 2rem 0;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
+    background-color: #101522;
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 `
 export const FooterSubscription = styled.section`
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-text-align: center;
-margin-bottom:  24px;
-padding: 24px;
-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom:  24px;
+    padding: 24px;
+    color: #fff;
 `
 export const FooterSubheading = styled.p`
-font-family: 'Treuchet TS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-margin-bottom: 24px;
-font-size: 16px;
+    font-family: 'Treuchet TS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 24px;
+    font-size: 16px;
 `
 
 export const FooterSubtext = styled.p`
-margin-bottom: 24px;
-font-size: 12px;
+    margin-bottom: 24px;
+    font-size: 12px;
 `
 
 export const Form = styled.form`

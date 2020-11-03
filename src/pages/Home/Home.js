@@ -6,8 +6,6 @@ function Home() {
     return (
         <div>
             <InfoSection {...homeConfig} />
-            {/* <InfoSection {...homeObjThree} />
-            <InfoSection {...homeObjFour} />  */}
         </div>
     )
 }
